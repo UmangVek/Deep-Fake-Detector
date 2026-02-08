@@ -1,0 +1,7 @@
+submission.csv
+test_public.csv
+train_labels.csv
+*.h5
+train/
+test/
+venv/
